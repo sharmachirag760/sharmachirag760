@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<img width="400" alt="coding" src="![image](https://github.com/user-attachments/assets/79a8fa95-bbbf-4839-8610-c7c5b68a753a)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmachirag760&label=Profile%20views&color=0e75b6&style=flat" alt="sharmachirag760" /> </p>
 
 
